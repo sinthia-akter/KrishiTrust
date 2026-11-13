@@ -295,4 +295,4 @@ The Bengali voice guide (`bangla.js`) is not connected to the database.
 
 ## Acknowledgements
 
-Developed as a group project for **CSE101 — Software Project Design and Development**.
+Developed as a group project for **CSE0613316 — Software Project Design and Development Lab**.
