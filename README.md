@@ -1,4 +1,4 @@
-# KrishiTrust
+# KrishiTrust - Trust Between Farmer, Market & Government
 
 **An agricultural marketplace and service platform connecting farmers, buyers and local service providers in Bangladesh.**
 
